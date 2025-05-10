@@ -12,11 +12,7 @@
       "food_description": "Organic, juicy red apples. Rich in fiber and vitamins.",
       "rating": 4.5,
       "reviews": 120,
-      "tags": [
-        "Bestseller",
-        "Organic",
-        "Expires in 7 days"
-      ],
+      "tags": ["Bestseller", "Organic", "Expires in 7 days"],
       "in_stock": true,
       "delivery_time": "2 hours",
       "expiry_time": "2023-12-30",
@@ -34,10 +30,7 @@
       "food_description": "Sweet yellow bananas. High in potassium.",
       "rating": 4.2,
       "reviews": 85,
-      "tags": [
-        "Quick Delivery",
-        "Expires in 3 days"
-      ],
+      "tags": ["Quick Delivery", "Expires in 3 days"],
       "in_stock": true,
       "delivery_time": "1 hour",
       "expiry_time": "2023-12-26",
@@ -53,10 +46,7 @@
       "food_description": "Fresh pasteurized milk. Rich in calcium.",
       "rating": 4.3,
       "reviews": 200,
-      "tags": [
-        "Daily Essential",
-        "Expires tomorrow"
-      ],
+      "tags": ["Daily Essential", "Expires tomorrow"],
       "in_stock": true,
       "delivery_time": "3 hours",
       "expiry_time": "2023-12-24",
@@ -72,10 +62,7 @@
       "food_description": "Organic brown eggs. High in protein.",
       "rating": 4.4,
       "reviews": 150,
-      "tags": [
-        "Protein Rich",
-        "Expires in 14 days"
-      ],
+      "tags": ["Protein Rich", "Expires in 14 days"],
       "in_stock": true,
       "delivery_time": "2 hours",
       "expiry_time": "2024-01-06",
@@ -91,10 +78,7 @@
       "food_description": "Soft and healthy bread. No added sugar.",
       "rating": 4,
       "reviews": 90,
-      "tags": [
-        "Healthy",
-        "Expires in 5 days"
-      ],
+      "tags": ["Healthy", "Expires in 5 days"],
       "in_stock": true,
       "delivery_time": "1 hour",
       "expiry_time": "2023-12-28",
@@ -110,10 +94,7 @@
       "food_description": "Premium long-grain rice. Ideal for biryani.",
       "rating": 4.7,
       "reviews": 300,
-      "tags": [
-        "Premium",
-        "Expires in 180 days"
-      ],
+      "tags": ["Premium", "Expires in 180 days"],
       "in_stock": true,
       "delivery_time": "Next day",
       "expiry_time": "2024-06-24",
@@ -129,10 +110,7 @@
       "food_description": "Red onions. Sharp flavor, great for cooking.",
       "rating": 4.1,
       "reviews": 75,
-      "tags": [
-        "Essential",
-        "Expires in 30 days"
-      ],
+      "tags": ["Essential", "Expires in 30 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-01-23",
@@ -148,10 +126,7 @@
       "food_description": "Skinless, boneless chicken. High protein.",
       "rating": 4.6,
       "reviews": 180,
-      "tags": [
-        "High Protein",
-        "Expires in 2 days"
-      ],
+      "tags": ["High Protein", "Expires in 2 days"],
       "in_stock": true,
       "delivery_time": "2 hours",
       "expiry_time": "2023-12-25",
@@ -167,10 +142,7 @@
       "food_description": "Juicy red tomatoes. Perfect for curries.",
       "rating": 4,
       "reviews": 60,
-      "tags": [
-        "Daily Veggie",
-        "Expires in 4 days"
-      ],
+      "tags": ["Daily Veggie", "Expires in 4 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2023-12-27",
@@ -186,10 +158,7 @@
       "food_description": "Sliced cheese. Melts perfectly.",
       "rating": 4.3,
       "reviews": 110,
-      "tags": [
-        "Dairy",
-        "Expires in 21 days"
-      ],
+      "tags": ["Dairy", "Expires in 21 days"],
       "in_stock": true,
       "delivery_time": "1 hour",
       "expiry_time": "2024-01-13",
@@ -209,10 +178,7 @@
       "food_description": "Juicy and vitamin C-rich oranges.",
       "rating": 4.3,
       "reviews": 64,
-      "tags": [
-        "Seasonal",
-        "Expires in 5 days"
-      ],
+      "tags": ["Seasonal", "Expires in 5 days"],
       "in_stock": true,
       "delivery_time": "3 hours",
       "expiry_time": "2023-12-28",
@@ -228,10 +194,7 @@
       "food_description": "Ideal for curries and fries.",
       "rating": 4.1,
       "reviews": 50,
-      "tags": [
-        "Staple",
-        "Expires in 30 days"
-      ],
+      "tags": ["Staple", "Expires in 30 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-01-23",
@@ -247,10 +210,7 @@
       "food_description": "Homemade curd. Probiotic-rich.",
       "rating": 4.4,
       "reviews": 80,
-      "tags": [
-        "Gut Health",
-        "Expires tomorrow"
-      ],
+      "tags": ["Gut Health", "Expires tomorrow"],
       "in_stock": true,
       "delivery_time": "2 hours",
       "expiry_time": "2023-12-24",
@@ -266,10 +226,7 @@
       "food_description": "Fresh and boneless. Great for grilling.",
       "rating": 4.5,
       "reviews": 120,
-      "tags": [
-        "High Protein",
-        "Expires in 1 day"
-      ],
+      "tags": ["High Protein", "Expires in 1 day"],
       "in_stock": true,
       "delivery_time": "Next day",
       "expiry_time": "2023-12-24",
@@ -285,10 +242,7 @@
       "food_description": "100% whole wheat. No additives.",
       "rating": 4.2,
       "reviews": 70,
-      "tags": [
-        "Healthy",
-        "Expires in 60 days"
-      ],
+      "tags": ["Healthy", "Expires in 60 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-02-22",
@@ -304,10 +258,7 @@
       "food_description": "Fine-grained. Perfect for baking.",
       "rating": 4,
       "reviews": 45,
-      "tags": [
-        "Pantry Essential",
-        "Expires in 365 days"
-      ],
+      "tags": ["Pantry Essential", "Expires in 365 days"],
       "in_stock": true,
       "delivery_time": "1 hour",
       "expiry_time": "2024-12-23",
@@ -323,10 +274,7 @@
       "food_description": "Aromatic Assam tea. Strong flavor.",
       "rating": 4.6,
       "reviews": 150,
-      "tags": [
-        "Beverage",
-        "Expires in 180 days"
-      ],
+      "tags": ["Beverage", "Expires in 180 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-06-23",
@@ -342,10 +290,7 @@
       "food_description": "Dark roast. Rich and bold.",
       "rating": 4.7,
       "reviews": 200,
-      "tags": [
-        "Energy Booster",
-        "Expires in 90 days"
-      ],
+      "tags": ["Energy Booster", "Expires in 90 days"],
       "in_stock": true,
       "delivery_time": "1 hour",
       "expiry_time": "2024-03-23",
@@ -361,10 +306,7 @@
       "food_description": "Crispy and buttery. Perfect with tea.",
       "rating": 4.3,
       "reviews": 90,
-      "tags": [
-        "Snack",
-        "Expires in 14 days"
-      ],
+      "tags": ["Snack", "Expires in 14 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-01-06",
@@ -380,10 +322,7 @@
       "food_description": "Crunchy and salted. Great for munching.",
       "rating": 4,
       "reviews": 60,
-      "tags": [
-        "Quick Snack",
-        "Expires in 30 days"
-      ],
+      "tags": ["Quick Snack", "Expires in 30 days"],
       "in_stock": true,
       "delivery_time": "1 hour",
       "expiry_time": "2024-01-23",
@@ -403,10 +342,7 @@
       "food_description": "Crunchy and rich in beta-carotene.",
       "rating": 4,
       "reviews": 45,
-      "tags": [
-        "Local Farm",
-        "Expires in 10 days"
-      ],
+      "tags": ["Local Farm", "Expires in 10 days"],
       "in_stock": true,
       "delivery_time": "Next day",
       "expiry_time": "2024-01-02",
@@ -422,10 +358,7 @@
       "food_description": "Tender and fibrous. Great for stir-fry.",
       "rating": 3.9,
       "reviews": 30,
-      "tags": [
-        "Fresh",
-        "Expires in 5 days"
-      ],
+      "tags": ["Fresh", "Expires in 5 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2023-12-28",
@@ -441,10 +374,7 @@
       "food_description": "Crunchy and versatile. Low in calories.",
       "rating": 3.8,
       "reviews": 25,
-      "tags": [
-        "Healthy",
-        "Expires in 7 days"
-      ],
+      "tags": ["Healthy", "Expires in 7 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2023-12-30",
@@ -460,10 +390,7 @@
       "food_description": "Succulent and deveined. Perfect for curry.",
       "rating": 4.4,
       "reviews": 80,
-      "tags": [
-        "Seafood",
-        "Expires in 1 day"
-      ],
+      "tags": ["Seafood", "Expires in 1 day"],
       "in_stock": true,
       "delivery_time": "Next day",
       "expiry_time": "2023-12-24",
@@ -479,10 +406,7 @@
       "food_description": "Tangy and juicy. Rich in vitamin C.",
       "rating": 4.1,
       "reviews": 40,
-      "tags": [
-        "Detox",
-        "Expires in 7 days"
-      ],
+      "tags": ["Detox", "Expires in 7 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2023-12-30",
@@ -498,10 +422,7 @@
       "food_description": "Light and healthy. Zero cholesterol.",
       "rating": 4.2,
       "reviews": 60,
-      "tags": [
-        "Heart Healthy",
-        "Expires in 365 days"
-      ],
+      "tags": ["Heart Healthy", "Expires in 365 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-12-23",
@@ -517,10 +438,7 @@
       "food_description": "Pungent and flavorful. Boosts immunity.",
       "rating": 4,
       "reviews": 35,
-      "tags": [
-        "Immunity Booster",
-        "Expires in 14 days"
-      ],
+      "tags": ["Immunity Booster", "Expires in 14 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-01-06",
@@ -536,10 +454,7 @@
       "food_description": "Aromatic and spicy. Aids digestion.",
       "rating": 4.1,
       "reviews": 40,
-      "tags": [
-        "Digestive",
-        "Expires in 14 days"
-      ],
+      "tags": ["Digestive", "Expires in 14 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-01-06",
@@ -555,10 +470,7 @@
       "food_description": "Unprocessed and raw. No added sugar.",
       "rating": 4.5,
       "reviews": 110,
-      "tags": [
-        "Natural Sweetener",
-        "Expires in 365 days"
-      ],
+      "tags": ["Natural Sweetener", "Expires in 365 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-12-23",
@@ -574,17 +486,366 @@
       "food_description": "Protein-rich lentils. Ideal for sambar.",
       "rating": 4.3,
       "reviews": 95,
-      "tags": [
-        "Staple",
-        "Expires in 180 days"
-      ],
+      "tags": ["Staple", "Expires in 180 days"],
       "in_stock": true,
       "delivery_time": "Same day",
       "expiry_time": "2024-06-23",
       "quantity_available": 30
     }
   ],
+  "cuddalore": [
+    {
+      "id": "4001",
+      "food_name": "Fresh Cucumbers",
+      "price": 32,
+      "original_price": 35,
+      "discount": "8% OFF",
+      "unit": "1 kg",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1604977047416-8b59a8f75328?w=500&auto=format&fit=crop",
+      "food_description": "Hydrating and low-calorie cucumbers.",
+      "rating": 3.9,
+      "reviews": 30,
+      "tags": ["Fresh", "Expires in 5 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-28",
+      "quantity_available": 20
+    },
+    {
+      "id": "4002",
+      "food_name": "Capsicum",
+      "price": 40,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Colorful and crunchy. Great for salads.",
+      "rating": 4,
+      "reviews": 35,
+      "tags": ["Vitamins", "Expires in 7 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-30",
+      "quantity_available": 15
+    },
+    {
+      "id": "4003",
+      "food_name": "Button Mushrooms",
+      "price": 55,
+      "unit": "200 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1518977956812-cd3dbadaaf31?w=500&auto=format&fit=crop",
+      "food_description": "Tender and earthy. Perfect for soups.",
+      "rating": 4.1,
+      "reviews": 45,
+      "tags": ["Gourmet", "Expires in 3 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-26",
+      "quantity_available": 10
+    },
+    {
+      "id": "4004",
+      "food_name": "Fresh Spinach",
+      "price": 48,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=500&auto=format&fit=crop",
+      "food_description": "Iron-rich greens. Great for smoothies.",
+      "rating": 4.2,
+      "reviews": 50,
+      "tags": ["Superfood", "Expires in 4 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-27",
+      "quantity_available": 18
+    },
+    {
+      "id": "4005",
+      "food_name": "Sweet Corn",
+      "price": 65,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1601593768799-76e6d8a9a3e4?w=500&auto=format&fit=crop",
+      "food_description": "Sweet and juicy. Ideal for snacks.",
+      "rating": 4.3,
+      "reviews": 55,
+      "tags": ["Quick Snack", "Expires in 5 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-28",
+      "quantity_available": 12
+    },
+    {
+      "id": "4006",
+      "food_name": "Beetroot",
+      "price": 28,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Nutrient-dense. Boosts stamina.",
+      "rating": 4,
+      "reviews": 40,
+      "tags": ["Detox", "Expires in 10 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2024-01-02",
+      "quantity_available": 15
+    },
+    {
+      "id": "4007",
+      "food_name": "Brinjal",
+      "price": 35,
+      "unit": "1 kg",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Purple and glossy. Perfect for curries.",
+      "rating": 3.9,
+      "reviews": 30,
+      "tags": ["Versatile", "Expires in 7 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-30",
+      "quantity_available": 20
+    },
+    {
+      "id": "4008",
+      "food_name": "Cauliflower",
+      "price": 42,
+      "unit": "1 kg",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Fresh and firm. Great for roasting.",
+      "rating": 4,
+      "reviews": 35,
+      "tags": ["Low Carb", "Expires in 5 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-28",
+      "quantity_available": 15
+    },
+    {
+      "id": "4009",
+      "food_name": "Ladyfinger",
+      "price": 38,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Tender and slimy. Ideal for stir-fry.",
+      "rating": 3.8,
+      "reviews": 25,
+      "tags": ["Fiber Rich", "Expires in 4 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-27",
+      "quantity_available": 12
+    },
+    {
+      "id": "4010",
+      "food_name": "Fresh Mutton",
+      "price": 150,
+      "unit": "1 kg",
+      "vegetarian": false,
+      "foodImg": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=500&auto=format&fit=crop",
+      "food_description": "Tender and lean. Great for biryani.",
+      "rating": 4.5,
+      "reviews": 120,
+      "tags": ["Protein Rich", "Expires in 2 days"],
+      "in_stock": true,
+      "delivery_time": "Next day",
+      "expiry_time": "2023-12-25",
+      "quantity_available": 8
+    }
+  ],
+  "dindugal": [
+    {
+      "id": "5001",
+      "food_name": "Premium Wheat",
+      "price": 85,
+      "original_price": 100,
+      "discount": "15% OFF",
+      "unit": "5 kg",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop",
+      "food_description": "Whole grain wheat for healthy cooking.",
+      "rating": 4.7,
+      "reviews": 200,
+      "tags": ["Bulk Buy", "Expires in 180 days"],
+      "in_stock": true,
+      "delivery_time": "2 days",
+      "expiry_time": "2024-06-23",
+      "quantity_available": 25
+    },
+    {
+      "id": "5002",
+      "food_name": "Cow Ghee",
+      "price": 120,
+      "unit": "1 L",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop",
+      "food_description": "Pure and aromatic. Enhances flavor.",
+      "rating": 4.6,
+      "reviews": 180,
+      "tags": ["Traditional", "Expires in 365 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2024-12-23",
+      "quantity_available": 15
+    },
+    {
+      "id": "5003",
+      "food_name": "Roasted Peanuts",
+      "price": 45,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1551892374-ecf8754d64ba?w=500&auto=format&fit=crop",
+      "food_description": "Crunchy and salted. High in protein.",
+      "rating": 4.3,
+      "reviews": 90,
+      "tags": ["Snack", "Expires in 60 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2024-02-22",
+      "quantity_available": 30
+    },
+    {
+      "id": "5004",
+      "food_name": "Green Chillies",
+      "price": 28,
+      "unit": "100 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Spicy and pungent. Adds heat to dishes.",
+      "rating": 4,
+      "reviews": 40,
+      "tags": ["Essential", "Expires in 7 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-30",
+      "quantity_available": 20
+    },
+    {
+      "id": "5005",
+      "food_name": "Coconut Pieces",
+      "price": 65,
+      "unit": "200 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop",
+      "food_description": "Fresh and sweet. Great for chutneys.",
+      "rating": 4.2,
+      "reviews": 60,
+      "tags": ["Versatile", "Expires in 5 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-28",
+      "quantity_available": 15
+    },
+    {
+      "id": "5006",
+      "food_name": "Coriander Leaves",
+      "price": 22,
+      "unit": "100 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Refreshing and cooling. Ideal for chutneys.",
+      "rating": 4.1,
+      "reviews": 45,
+      "tags": ["Digestive", "Expires in 4 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-27",
+      "quantity_available": 18
+    },
+    {
+      "id": "5007",
+      "food_name": "Mint Leaves",
+      "price": 38,
+      "unit": "100 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1576186726110-34e3b5d5a530?w=500&auto=format&fit=crop",
+      "food_description": "Refreshing and cooling. Ideal for chutneys.",
+      "rating": 4.1,
+      "reviews": 45,
+      "tags": ["Digestive", "Expires in 4 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2023-12-27",
+      "quantity_available": 18
+    },
+    {
+      "id": "5008",
+      "food_name": "Fresh Beef",
+      "price": 180,
+      "unit": "1 kg",
+      "vegetarian": false,
+      "foodImg": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?w=500&auto=format&fit=crop",
+      "food_description": "Tender and lean. Great for steaks.",
+      "rating": 4.5,
+      "reviews": 110,
+      "tags": ["High Protein", "Expires in 2 days"],
+      "in_stock": true,
+      "delivery_time": "Next day",
+      "expiry_time": "2023-12-25",
+      "quantity_available": 10
+    },
+    {
+      "id": "5009",
+      "food_name": "Mixed Fruit Jam",
+      "price": 95,
+      "unit": "500 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1551892374-ecf8754d64ba?w=500&auto=format&fit=crop",
+      "food_description": "Sweet and tangy. No preservatives.",
+      "rating": 4.3,
+      "reviews": 80,
+      "tags": ["Breakfast", "Expires in 90 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2024-03-23",
+      "quantity_available": 15
+    },
+    {
+      "id": "5010",
+      "food_name": "Black Pepper Powder",
+      "price": 75,
+      "unit": "100 g",
+      "vegetarian": true,
+      "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&auto=format&fit=crop",
+      "food_description": "Aromatic and spicy. Enhances flavor.",
+      "rating": 4.4,
+      "reviews": 70,
+      "tags": ["Spice", "Expires in 365 days"],
+      "in_stock": true,
+      "delivery_time": "Same day",
+      "expiry_time": "2024-12-23",
+      "quantity_available": 20
+    }
+  ],
   "Cart": [
+    {
+      "id": "2001",
+      "name": "Sweet Oranges",
+      "img": "https://images.unsplash.com/photo-1587731556938-38755b4803a6?w=500&auto=format&fit=crop",
+      "price": 40,
+      "delivery": "3 hours",
+      "location": "madurai"
+    },
+    {
+      "id": "2002",
+      "name": "Fresh Potatoes",
+      "img": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=500&auto=format&fit=crop",
+      "price": 28,
+      "delivery": "Same day",
+      "location": "madurai"
+    },
+    {
+      "id": "2003",
+      "name": "Fresh Curd",
+      "img": "https://images.unsplash.com/photo-1577047309477-7b596c7f1f3e?w=500&auto=format&fit=crop",
+      "price": 50,
+      "delivery": "2 hours",
+      "location": "madurai"
+    },
     {
       "id": "2004",
       "name": "Seer Fish",
@@ -592,33 +853,6 @@
       "price": 150,
       "delivery": "Next day",
       "location": "madurai"
-    },
-    {
-      "id": "2008",
-      "name": "Coffee Powder",
-      "img": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=500&auto=format&fit=crop",
-      "price": 180,
-      "delivery": "1 hour",
-      "location": "madurai"
-    }
-  ],
-  "User": [
-    {
-      "id": "4edb",
-      "name": "Raja Ram P",
-      "phone": "09345029800",
-      "address": {
-        "building": "276,Sengankadu,Thillaivilagam,thiruthuraipoondi tk,thiruvarur dt",
-        "street": "12",
-        "area": "21",
-        "city": "muthupet"
-      },
-      "product": {
-        "name": "Fresh Potatoes",
-        "img": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=500&auto=format&fit=crop",
-        "price": 28,
-        "delivery": "Same day"
-      }
     }
   ]
 }
